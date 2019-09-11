@@ -1,0 +1,24 @@
+﻿html {
+    overflow-y: scroll;
+}
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    /*background-image: url('/images/pattern.png');*/
+    background-color:burlywood;
+    background-repeat: repeat;
+}
+
+.body-content {
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.body-content > div > h2 {
+    margin-bottom: 30px;
+}
+
+.validation-summary {
+    margin-bottom: 30px;
+}
